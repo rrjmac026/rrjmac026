@@ -1,5 +1,5 @@
-# 💫 About Me:
-My name is Jam and I'm a Student from, Bukidnon State University
+# 💫 About Me: My name is Jam and I'm a Student from, Bukidnon State University
+
 
 
 # 💻 Tech Stack:
