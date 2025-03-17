@@ -1,4 +1,4 @@
-# 💫 My name is Jam and I'm a Student from, Bukidnon State University
+# 💫 My name is Jam and I'm a Student from Bukidnon State University
 
 
 
